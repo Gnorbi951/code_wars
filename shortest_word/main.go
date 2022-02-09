@@ -19,6 +19,5 @@ func FindShort(s string) int {
 			shortest = len(element)
 		}
 	}
-
 	return shortest
 }
